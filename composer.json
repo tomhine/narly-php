@@ -1,0 +1,16 @@
+{
+    "name": "tomhine/narly-php",
+    "description": "MVC Web Framework using PHP",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tom Hine",
+            "email": "tomhine792@gmail.com"
+        }
+    ],
+    "require": {}
+}
